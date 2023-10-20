@@ -1,0 +1,16 @@
+{
+  "name": "iscas-ui",
+  "version": "1.0.0",
+  "description": "中科院软件所ui库(vue)",
+  "main": "iscas-ui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iscas",
+    "vue",
+    "web"
+  ],
+  "author": "qq597092026",
+  "license": "ISC"
+}
